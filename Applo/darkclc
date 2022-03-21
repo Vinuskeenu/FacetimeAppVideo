@@ -1,1 +1,22 @@
-
+{
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://282.win.predchamp.com",
+   "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
+   "admob_showAdStatus":"0",
+   "AppID":"ca-app-pub-5517092987757413~8240781391",
+   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
+   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
+   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
+   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
+   "mopub_showStatus":"1",
+   "mopub_banner":"bce98acdd1cf42c49530fe22145a9b33",
+   "mopub_inter1":"229af17198f449479dd43452fd94129a",
+   "mopub_inter2":"229af17198f449479dd43452fd94129a",
+   "mopub_inter3":"229af17198f449479dd43452fd94129a",
+   "mopub_native":"390ed04c6038415588a74f1163069661"
+}
